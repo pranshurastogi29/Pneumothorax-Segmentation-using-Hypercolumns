@@ -1,9 +1,9 @@
 # Pneumothorax-Segmentation-using-Hypercolumns
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/301f2382dfff4c9099efff707166da08)](https://app.codacy.com/manual/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns?utm_source=github.com&utm_medium=referral&utm_content=ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns&utm_campaign=Badge_Grade_Dashboard)
 [![HitCount](http://hits.dwyl.io/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns.svg)](http://hits.dwyl.io/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns)
-
-[Gitter Link](https://gitter.im/Pneumothorax-Segmentation-using-Hypercolumns/community)
-
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Pneumothorax-Segmentation-using-Hypercolumns/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns/master)
+## Please star the [Repo](https://github.com/ucalyptus/Pneumothorax-Segmentation-using-Hypercolumns) if you liked it.
 
 ### Contributing
  1. Fork the repository.
@@ -26,6 +26,8 @@
 
 ![](Hypercolumns1.png)
 
+### Slides to my Talk
+- [Artificial Intelligence @IEM Kolkata, November 20th, 2019](https://docs.google.com/presentation/d/1HOrCmoDKrbKAi2xuOkHq9ZSQCCgtnuxHAZ4opmBFUv8/edit?usp=sharing)
 
 ###  Hacktoberfest 2019 Contributors for this repo
 
@@ -49,6 +51,7 @@
 
 ### If you want to see the public implementation you can go to the [link]https://colab.research.google.com/drive/1iT79EPridQifgGxkZhh_YpuKq5uRflhu
 
+
  - If end up with error in first cell in the public notebook then go through the following points
 	1. first cell requires a kaggle.json file if you have a kaggle profile you can see this article to download the kaggle.json
-	2. if you does not have a account and still wants to run the notebook you can use the kaggle.json given in the repo.
+	2. if you does not have a account and still want to run the notebook you can use the kaggle.json given in the repo.
